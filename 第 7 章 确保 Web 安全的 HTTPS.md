@@ -6,5 +6,6 @@
 - 等等
 ### 7.2 HTTP + 加密 + 认证 + 完整性保护 = HTTPS
 
-
+### 资料
+[一个故事讲完 HTTPS](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513779&idx=1&sn=a1de58690ad4f95111e013254a026ca2)
 
